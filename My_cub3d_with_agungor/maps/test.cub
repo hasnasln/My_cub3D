@@ -1,0 +1,28 @@
+SO ./maps/textures/Joker.xpm
+C 30,32,30
+WE ./maps/textures/Spiderman.xpm
+
+
+
+EA ./maps/textures/IronMan.xpm
+
+
+
+
+
+
+
+
+F 67,46,84
+NO ./maps/textures/Batman.xpm
+
+1111111111
+1000000001
+1000000001
+1011001001
+1E10001001
+1010001001
+1010000001
+1110111001
+1000000001
+1111111111
